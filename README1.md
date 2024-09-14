@@ -44,13 +44,12 @@ See 'snap info docker' for additional versions.
 
 1/ 
 
-![d-p-1-1](https://github.com/Vi-Mars/shvirtd-example-python/blob/main/d-p-1-1.jpg)
-![d-p-1-1-1](https://github.com/Vi-Mars/shvirtd-example-python/blob/main/d-p-1-1-1.jpg)
+![d-p-1-1](https://github.com/Vi-Mars/doc-pr/blob/main/d-p-1-1.jpg)
+![d-p-1-1-1](https://github.com/Vi-Mars/doc-pr/blob/main/d-p-1-1-1.jpg)
 
 2/  
 
-Не поняла как тестировать корректность сборки.
-![d-p-1-2](https://github.com/Vi-Mars/shvirtd-example-python/blob/main/d-p-1-2.jpg)
+![d-p-1-2](https://github.com/Vi-Mars/doc-pr/blob/main/d-p-1-2.jpg)
 
 3/  
 не выполняла
@@ -65,8 +64,8 @@ See 'snap info docker' for additional versions.
 
 Загрузить переменные окружения из файла .env: load_dotenv().
 И передать значения.
-![d-p-1-4](https://github.com/Vi-Mars/shvirtd-example-python/blob/main/d-p-1-4.jpg)
 
+![d-p-1-4](https://github.com/Vi-Mars/doc-pr/blob/main/d-p-1-4.jpg)
 
 
 ## Задача 2 (*)
@@ -81,7 +80,7 @@ See 'snap info docker' for additional versions.
 #### Решение 2
 
 
-![d-p-2]()
+![d-p-2](https://github.com/Vi-Mars/doc-pr/blob/main/d-p-2.jpg)
 
 
 ## Задача 3
@@ -104,7 +103,7 @@ See 'snap info docker' for additional versions.
 
 #### Решение 3
 
-![d-p-3]()
+![d-p-3](https://github.com/Vi-Mars/doc-pr/blob/main/d-p-3.jpg)
 
 
 ## Задача 4
@@ -120,7 +119,8 @@ See 'snap info docker' for additional versions.
 
 #### Решение 4
 
-![d-p-4]()
+![d-p-4](https://github.com/Vi-Mars/doc-pr/blob/main/d-p-4.jpg)
+![d-p-41](https://github.com/Vi-Mars/doc-pr/blob/main/d-p-41.jpg)
 
 
 ## Задача 5 (*)
@@ -135,7 +135,7 @@ See 'snap info docker' for additional versions.
 не делала
 
 
-## Задача 6 (*)
+## Задача 6
 Скачайте docker образ ```hashicorp/terraform:latest``` и скопируйте бинарный файл ```/bin/terraform``` на свою локальную машину, используя dive и docker save.
 Предоставьте скриншоты  действий .
 
@@ -144,7 +144,8 @@ See 'snap info docker' for additional versions.
 #### Решение 6
 
 
-![d-p-6]()
+![d-p-6](https://github.com/Vi-Mars/doc-pr/blob/main/d-p-6.jpg)
+
 
 
 ## Задача 6.1
@@ -153,11 +154,11 @@ See 'snap info docker' for additional versions.
 
 
 
+
 #### Решение 6.1
 
 
-![sql2-1-1]()
-
+![d-p-61](https://github.com/Vi-Mars/doc-pr/blob/main/d-p-61.jpg)
 
 ## Задача 6.2 (**)
 Предложите способ извлечь файл из контейнера, используя только команду docker build и любой Dockerfile.  
@@ -167,8 +168,7 @@ See 'snap info docker' for additional versions.
 
 #### Решение 6.2
 
-
-![sql2-1-1]()
+не делала
 
 
 ## Задача 7 (***)
