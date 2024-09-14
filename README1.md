@@ -121,6 +121,9 @@ See 'snap info docker' for additional versions.
 
 ![d-p-4](https://github.com/Vi-Mars/doc-pr/blob/main/d-p-4.jpg)
 ![d-p-41](https://github.com/Vi-Mars/doc-pr/blob/main/d-p-41.jpg)
+![d-p-42](https://github.com/Vi-Mars/doc-pr/blob/main/d-p-42.jpg)
+
+https://github.com/Vi-Mars/doc-pr.git
 
 
 ## Задача 5 (*)
